@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<students>
+<student>
+    <name>Kamogelo</name>
+    <course>Software Development</course>
+    <age>23</age>
+    <gender>Male</gender>
+</student>
+
+<student>
+    <name>John</name>
+    <course>Software Development</course>
+    <age>22</age>
+    <gender>Male</gender>
+</student>
+
+<student>
+    <name>Jane</name>
+    <course>Software Development</course>
+    <age>23</age>
+    <gender>Female</gender>
+</student>
+
+</students>
